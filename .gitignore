@@ -1,0 +1,16 @@
+Debug/
+Release/
+.build/
+.settings/
+.idea/
+.vscode/
+
+*.o
+*.d
+*.elf
+*.map
+*.hex
+*.bin
+*.lst
+
+*.log
